@@ -1,0 +1,669 @@
+2022-06-23 17:26:42 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:26:43 INFO  CapabilitiesFactory:35 - I'm on get appium server URL
+2022-06-23 17:26:43 INFO  CapabilitiesFactory:24 - I'm on get capabilities
+2022-06-23 17:27:11 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:27:11 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:27:11 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:27:11 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:27:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 17:27:12 INFO  BaseTest:18 - I'm on before method
+2022-06-23 17:27:12 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:27:12 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 17:27:12 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 17:27:14 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:27:16 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 17:27:25 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 17:27:30 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 17:27:36 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 17:27:43 INFO  BaseTest:24 - I'm on after method
+2022-06-23 17:27:43 INFO  AndroidDriverSingleton:29 - I'm on quite driver
+2022-06-23 17:27:43 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:03 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:03 INFO  CapabilitiesFactory:35 - I'm on get appium server URL
+2022-06-23 17:28:03 INFO  CapabilitiesFactory:24 - I'm on get capabilities
+2022-06-23 17:28:23 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:23 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:23 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:23 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 17:28:24 INFO  BaseTest:18 - I'm on before method
+2022-06-23 17:28:24 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:24 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 17:28:24 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 17:28:25 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:28:28 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 17:28:36 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 17:28:41 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 17:28:47 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 17:28:54 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 17:28:59 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 17:29:03 INFO  BaseTest:24 - I'm on after method
+2022-06-23 17:29:03 INFO  AndroidDriverSingleton:29 - I'm on quite driver
+2022-06-23 17:29:03 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:35:51 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:35:51 INFO  CapabilitiesFactory:35 - I'm on get appium server URL
+2022-06-23 17:35:51 INFO  CapabilitiesFactory:24 - I'm on get capabilities
+2022-06-23 17:36:10 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:36:10 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:36:10 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:36:10 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:36:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 17:36:10 INFO  BaseTest:18 - I'm on before method
+2022-06-23 17:36:10 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:36:10 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 17:36:10 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 17:36:11 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 17:36:14 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 17:36:23 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 17:36:27 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 17:36:33 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 17:36:39 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 17:36:44 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 17:36:47 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 17:36:48 INFO  BaseTest:24 - I'm on after method
+2022-06-23 17:36:48 INFO  AndroidDriverSingleton:29 - I'm on quite driver
+2022-06-23 17:36:48 INFO  AndroidDriverSingleton:20 - I'm on get driver
+2022-06-23 18:39:25 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:39:25 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 18:39:25 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 18:39:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:39:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:39:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:39:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:39:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 18:39:58 INFO  BaseTest:17 - I'm on before method
+2022-06-23 18:39:58 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:39:58 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 18:39:58 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:39:59 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:40:03 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 18:40:03 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:40:34 INFO  BaseTest:23 - I'm on after method
+2022-06-23 18:40:34 INFO  AndroidDriverSingleton:26 - I'm on quite driver
+2022-06-23 18:40:34 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:14 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:14 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 18:41:14 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 18:41:38 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:38 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:38 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:38 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 18:41:38 INFO  BaseTest:17 - I'm on before method
+2022-06-23 18:41:38 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:39 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 18:41:39 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:41:40 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:41:44 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 18:41:54 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 18:41:59 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 18:42:07 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:42:13 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 18:42:19 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 18:42:23 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:42:26 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 18:42:26 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:42:57 INFO  BaseTest:23 - I'm on after method
+2022-06-23 18:42:57 INFO  AndroidDriverSingleton:26 - I'm on quite driver
+2022-06-23 18:42:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:44:45 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:44:46 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 18:44:46 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 18:45:08 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:08 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:08 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:08 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 18:45:08 INFO  BaseTest:17 - I'm on before method
+2022-06-23 18:45:08 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:08 INFO  BaseTest:23 - I'm on before method
+2022-06-23 18:45:08 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:08 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 18:45:08 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:45:09 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:13 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 18:45:22 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 18:45:26 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 18:45:33 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:45:39 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 18:45:45 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 18:45:49 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:45:50 INFO  BaseTest:23 - I'm on before method
+2022-06-23 18:45:50 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:45:50 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 18:45:50 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:46:21 INFO  BaseTest:29 - I'm on after method
+2022-06-23 18:46:21 INFO  AndroidDriverSingleton:26 - I'm on quite driver
+2022-06-23 18:46:21 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:54:50 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:54:50 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 18:54:50 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 18:55:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 18:55:18 INFO  BaseTest:19 - I'm on before method
+2022-06-23 18:55:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:18 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 18:55:18 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:55:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:55:22 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 18:55:30 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 18:55:35 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 18:55:42 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:55:48 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 18:55:53 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 18:55:56 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:55:57 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 18:55:57 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:56:28 INFO  BaseTest:26 - I'm on after method
+2022-06-23 18:56:28 INFO  AndroidDriverSingleton:26 - I'm on quite driver
+2022-06-23 18:56:28 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:57:50 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:57:50 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 18:57:50 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 18:58:09 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:58:09 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:58:09 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:58:09 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:58:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 18:58:09 INFO  BaseTest:19 - I'm on before method
+2022-06-23 18:58:09 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:58:09 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 18:58:09 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:58:10 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 18:58:14 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 18:58:22 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 18:58:27 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 18:58:33 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:58:38 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 18:58:41 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 18:58:45 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 18:58:47 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 18:58:47 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 18:59:17 INFO  BaseTest:26 - I'm on after method
+2022-06-23 19:01:06 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:06 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:01:06 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:01:29 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:29 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:29 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:29 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:01:30 INFO  BaseTest:16 - I'm on before method
+2022-06-23 19:01:30 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:30 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:01:30 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:01:31 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:01:35 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:01:43 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:01:47 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:01:54 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:02:01 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:02:07 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:02:12 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:02:13 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 19:02:13 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:02:43 INFO  BaseTest:23 - I'm on after method
+2022-06-23 19:10:39 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:10:39 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:10:39 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:11:03 INFO  BaseTest:16 - I'm on before suite
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  BaseTest:29 - I'm on before class
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:11:03 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:03 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:11:03 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:11:05 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:11:09 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:11:17 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:11:22 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:11:28 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:11:33 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:11:36 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:11:40 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:11:41 INFO  BaseTest:65 - I'm on after method
+2022-06-23 19:11:41 INFO  BaseTest:50 - I'm on after method
+2022-06-23 19:13:05 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:05 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:13:05 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:13:25 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:25 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:25 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:25 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:13:26 INFO  BaseTest:16 - I'm on before suite
+2022-06-23 19:13:26 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:26 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:13:26 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:26 INFO  BaseTest:29 - I'm on before class
+2022-06-23 19:13:26 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:26 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:13:26 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:26 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:13:26 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:13:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:13:31 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:13:40 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:13:43 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:13:50 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:13:57 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:14:00 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:14:03 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:14:05 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:14:05 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:14:05 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 19:14:05 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:15:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:15:58 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:15:58 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:16:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:18 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\Desktop\epam_lab_HT\Appium_HT17\src\test\resources\testng.xml
+
+2022-06-23 19:16:19 INFO  BaseTest:16 - I'm on before suite
+2022-06-23 19:16:19 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:19 INFO  TestListener:39 - I am in onStart method TestGmailLetter on Thu Jun 23 19:16:19 EEST 2022
+2022-06-23 19:16:19 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:16:19 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:19 INFO  BaseTest:29 - I'm on before class
+2022-06-23 19:16:19 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:19 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:16:19 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:19 INFO  TestListener:19 - I am in com.epam.lab.TestGmailLetter method isLetterDeletedTest start
+2022-06-23 19:16:19 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:16:19 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:16:20 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:16:23 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:16:31 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:16:35 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:16:42 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:16:47 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:16:51 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:16:54 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:16:56 INFO  TestListener:23 - I am in com.epam.lab.TestGmailLetter method isLetterDeletedTest succeed
+2022-06-23 19:16:56 INFO  TestListener:43 - I am in onFinish method TestGmailLetter on Thu Jun 23 19:16:56 EEST 2022
+2022-06-23 19:16:56 INFO  TestListener:44 - ------------------------------------------------------------------------------------------
+2022-06-23 19:18:33 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:33 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:18:33 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\Desktop\epam_lab_HT\Appium_HT17\src\test\resources\testng.xml
+
+2022-06-23 19:18:53 INFO  BaseTest:16 - I'm on before suite
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  TestListener:39 - I am in onStart method Send Letter on Thu Jun 23 19:18:53 EEST 2022
+2022-06-23 19:18:53 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  TestListener:43 - I am in onFinish method Send Letter on Thu Jun 23 19:18:53 EEST 2022
+2022-06-23 19:18:53 INFO  TestListener:44 - ------------------------------------------------------------------------------------------
+2022-06-23 19:18:53 INFO  TestListener:39 - I am in onStart method Delete Letter on Thu Jun 23 19:18:53 EEST 2022
+2022-06-23 19:18:53 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:18:53 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:18:53 INFO  TestListener:43 - I am in onFinish method Delete Letter on Thu Jun 23 19:18:53 EEST 2022
+2022-06-23 19:18:53 INFO  TestListener:44 - ------------------------------------------------------------------------------------------
+2022-06-23 19:19:21 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:22 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:19:22 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:19:41 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:41 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:41 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:41 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\Desktop\epam_lab_HT\Appium_HT17\src\test\resources\testng.xml
+
+2022-06-23 19:19:42 INFO  BaseTest:16 - I'm on before suite
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  TestListener:39 - I am in onStart method Send Letter on Thu Jun 23 19:19:42 EEST 2022
+2022-06-23 19:19:42 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  TestListener:43 - I am in onFinish method Send Letter on Thu Jun 23 19:19:42 EEST 2022
+2022-06-23 19:19:42 INFO  TestListener:44 - ------------------------------------------------------------------------------------------
+2022-06-23 19:19:42 INFO  TestListener:39 - I am in onStart method Delete Letter on Thu Jun 23 19:19:42 EEST 2022
+2022-06-23 19:19:42 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:19:42 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:19:42 INFO  TestListener:43 - I am in onFinish method Delete Letter on Thu Jun 23 19:19:42 EEST 2022
+2022-06-23 19:19:42 INFO  TestListener:44 - ------------------------------------------------------------------------------------------
+2022-06-23 19:20:57 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:20:58 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:20:58 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:21:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:21:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:21:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:21:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:21:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:21:17 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:21:17 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:21:17 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:21:17 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:21:20 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:21:24 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:21:35 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:21:37 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:21:43 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:21:48 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:21:52 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:21:56 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:21:57 INFO  BaseTest:65 - I'm on after method
+2022-06-23 19:23:07 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:08 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:23:08 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:23:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:23:28 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:23:28 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:28 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:23:28 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:23:29 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:32 INFO  BaseTest:36 - I'm on before method
+2022-06-23 19:23:32 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:23:32 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 19:23:32 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:24:37 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:24:37 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:24:37 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:24:58 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:24:58 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:24:58 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:24:58 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:24:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:24:58 INFO  BaseTest:22 - I'm on before test
+2022-06-23 19:24:58 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:24:58 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:24:58 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:24:59 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:25:03 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:25:12 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:25:16 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:25:21 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:25:26 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:25:31 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:25:35 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:25:36 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 19:25:36 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:26:06 INFO  BaseTest:50 - I'm on after method
+2022-06-23 19:28:07 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:07 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:28:07 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:28:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:27 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:28:28 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:28 INFO  TestGmailLetter:37 - I'm on is letter deleted test
+2022-06-23 19:28:28 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:28:29 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:28:33 INFO  GmailBO:34 - I`m on click create new letter
+2022-06-23 19:28:41 INFO  GmailBO:41 - I`m on close label compose page
+2022-06-23 19:28:45 INFO  GmailBO:47 - I`m on send letter
+2022-06-23 19:28:52 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:28:56 INFO  GmailBO:62 - I`m on delete the letter
+2022-06-23 19:29:00 INFO  GmailBO:69 - I`m on is deleted label displayed
+2022-06-23 19:29:03 INFO  GmailBO:57 - I`m on check the letter
+2022-06-23 19:29:04 INFO  AndroidDriverSingleton:26 - I'm on quite driver
+2022-06-23 19:29:04 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:29:05 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:29:05 INFO  TestGmailLetter:25 - I'm on is letter sent test
+2022-06-23 19:29:05 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:33:34 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:33:34 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:33:34 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:33:56 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:33:56 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:33:56 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:33:56 INFO  AndroidDriverSingleton:17 - I'm on get driver
+2022-06-23 19:33:56 WARN  Configuration:133 - Detected a static method [com.epam.lab.BaseTest.getDriver()]. Static configuration methods can cause  unexpected behavior.
+2022-06-23 19:33:56 WARN  Configuration:133 - Detected a static method [com.epam.lab.BaseTest.quitDriver()]. Static configuration methods can cause  unexpected behavior.
+2022-06-23 19:33:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:33:56 INFO  BaseTest:41 - I'm on get driver
+2022-06-23 19:33:56 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:33:56 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:34:19 INFO  TestGmailLetter:34 - I'm on is letter deleted test
+2022-06-23 19:34:19 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:34:19 INFO  BaseTest:73 - I'm on quite driver
+2022-06-23 19:34:19 INFO  BaseTest:41 - I'm on get driver
+2022-06-23 19:34:20 INFO  BaseTest:41 - I'm on get driver
+2022-06-23 19:34:20 INFO  TestGmailLetter:24 - I'm on is letter sent test
+2022-06-23 19:34:20 INFO  GmailBO:26 - I`m on skip initial page
+2022-06-23 19:34:20 INFO  BaseTest:73 - I'm on quite driver
+2022-06-23 19:34:20 INFO  BaseTest:41 - I'm on get driver
+2022-06-23 19:49:32 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:49:32 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:49:32 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:49:57 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:49:57 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:49:57 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:49:57 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:49:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:49:58 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 19:49:58 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 19:49:59 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:50:02 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 19:50:10 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 19:50:15 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 19:50:21 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 19:50:24 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 19:50:29 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 19:50:33 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 19:50:33 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 19:50:33 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 19:51:03 INFO  BaseTest:14 - I'm on after method
+2022-06-23 19:51:03 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 19:51:03 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:18 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:19 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 19:51:19 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 19:51:43 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:43 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:43 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:43 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 19:51:43 INFO  TestGmailLetter:23 - I'm on is letter sent test
+2022-06-23 19:51:43 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 19:51:44 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 19:51:49 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 19:51:58 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 19:52:02 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 19:52:09 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 19:52:11 INFO  BaseTest:14 - I'm on after method
+2022-06-23 19:52:11 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 19:52:11 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:09:38 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:09:38 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 20:09:38 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 20:10:03 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:10:03 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:10:03 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:10:03 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:10:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 20:10:03 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 20:10:03 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 20:10:05 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:10:09 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 20:10:19 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 20:10:25 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 20:10:32 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:10:36 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 20:10:40 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 20:10:44 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:10:44 INFO  BaseTest:14 - I'm on after method
+2022-06-23 20:10:44 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 20:10:44 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:10 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:10 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 20:14:10 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 20:14:36 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:36 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:36 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:36 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 20:14:37 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 20:14:37 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 20:14:38 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:14:43 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 20:14:54 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 20:15:00 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 20:15:08 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:15:13 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 20:15:19 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 20:15:24 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:15:24 INFO  BaseTest:14 - I'm on after method
+2022-06-23 20:15:24 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 20:15:24 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:26 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:26 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 20:18:26 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 20:18:45 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:45 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:45 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:45 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 20:18:45 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 20:18:45 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 20:18:46 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:18:50 INFO  BaseTest:14 - I'm on after method
+2022-06-23 20:18:50 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 20:18:50 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:28 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:29 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 20:19:29 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 20:19:46 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:46 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:46 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:46 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 20:19:46 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 20:19:46 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 20:19:47 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:19:51 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 20:19:59 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 20:20:03 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 20:20:09 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:20:13 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 20:20:17 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 20:20:20 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:20:20 INFO  BaseTest:14 - I'm on after method
+2022-06-23 20:20:20 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 20:20:20 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:08 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:08 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 20:22:08 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 20:22:25 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:25 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:25 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:25 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 20:22:25 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 20:22:25 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 20:22:27 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:22:30 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 20:22:37 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 20:22:41 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 20:22:48 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:22:54 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 20:22:57 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 20:23:01 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:23:01 INFO  BaseTest:14 - I'm on after method
+2022-06-23 20:23:01 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 20:23:01 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:17 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:17 INFO  CapabilitiesFactory:33 - I'm on get appium server URL
+2022-06-23 20:25:17 INFO  CapabilitiesFactory:22 - I'm on get capabilities
+2022-06-23 20:25:34 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:34 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:34 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:34 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\anastasiia\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-06-23 20:25:34 INFO  TestGmailLetter:33 - I'm on is letter deleted test
+2022-06-23 20:25:34 INFO  GmailBO:27 - I`m on skip initial page
+2022-06-23 20:25:35 INFO  AndroidDriverSingleton:16 - I'm on get driver
+2022-06-23 20:25:38 INFO  GmailBO:35 - I`m on click create new letter
+2022-06-23 20:25:45 INFO  GmailBO:42 - I`m on close label compose page
+2022-06-23 20:25:48 INFO  GmailBO:48 - I`m on send letter
+2022-06-23 20:25:54 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:25:57 INFO  GmailBO:63 - I`m on delete the letter
+2022-06-23 20:26:01 INFO  GmailBO:70 - I`m on is deleted label displayed
+2022-06-23 20:26:04 INFO  GmailBO:58 - I`m on check the letter
+2022-06-23 20:26:04 INFO  BaseTest:14 - I'm on after method
+2022-06-23 20:26:04 INFO  AndroidDriverSingleton:25 - I'm on quite driver
+2022-06-23 20:26:04 INFO  AndroidDriverSingleton:16 - I'm on get driver
